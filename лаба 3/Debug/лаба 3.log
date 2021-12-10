@@ -1,0 +1,4 @@
+﻿  лаба 3.cpp
+C:\Users\UwU\source\repos\лаба 3\лаба 3\лаба 3.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\UwU\source\repos\лаба 3\лаба 3\лаба 3.cpp(39,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  лаба 3.vcxproj -> C:\Users\UwU\source\repos\лаба 3\Debug\лаба 3.exe
